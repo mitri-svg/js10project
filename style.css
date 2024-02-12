@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+.oyun{
+    background-color: rgba(211, 149, 16, 0.377);
+    width: 60px;
+    height: 50px;
+    border-radius: 13% ;
+}
